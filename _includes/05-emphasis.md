@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+My actual work is **Stock Manager** but i *don't like it*. I want to create a _**mini startup**_ with **Stripe LLC**. I am sure it will be difficult but i will **succeed** no matter circonstances i will _face_.
